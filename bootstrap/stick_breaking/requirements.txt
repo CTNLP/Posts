@@ -1,0 +1,12 @@
+notebook
+ipywidgets
+black
+autoflake
+isort
+blacken-docs
+pyarrow
+pandas
+scipy
+matplotlib
+numpy
+seaborn
